@@ -42,6 +42,6 @@ cp example.env .env
 
 Run the application with Chainlit:
 ```bash
-uv run chainlit run main.py
+chainlit run main.py -w
 ```
 
