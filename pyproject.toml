@@ -1,5 +1,5 @@
 [project]
-name = "chainlit-test-1"
+name = "ai-chatbox-with-chainlit"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
